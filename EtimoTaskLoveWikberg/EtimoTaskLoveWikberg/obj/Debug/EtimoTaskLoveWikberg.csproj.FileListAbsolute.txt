@@ -1,0 +1,7 @@
+D:\Programmering\EtimoTaskLoveWikberg\EtimoTaskLoveWikberg\bin\Debug\EtimoTaskLoveWikberg.exe.config
+D:\Programmering\EtimoTaskLoveWikberg\EtimoTaskLoveWikberg\bin\Debug\EtimoTaskLoveWikberg.exe
+D:\Programmering\EtimoTaskLoveWikberg\EtimoTaskLoveWikberg\bin\Debug\EtimoTaskLoveWikberg.pdb
+D:\Programmering\EtimoTaskLoveWikberg\EtimoTaskLoveWikberg\obj\Debug\EtimoTaskLoveWikberg.csprojResolveAssemblyReference.cache
+D:\Programmering\EtimoTaskLoveWikberg\EtimoTaskLoveWikberg\obj\Debug\EtimoTaskLoveWikberg.csproj.CoreCompileInputs.cache
+D:\Programmering\EtimoTaskLoveWikberg\EtimoTaskLoveWikberg\obj\Debug\EtimoTaskLoveWikberg.exe
+D:\Programmering\EtimoTaskLoveWikberg\EtimoTaskLoveWikberg\obj\Debug\EtimoTaskLoveWikberg.pdb
